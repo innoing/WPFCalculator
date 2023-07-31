@@ -282,7 +282,7 @@ namespace WPFCalculator
            
             if (sender == DivideButton)
             {
-                selectedOperator = SelectedOperator.Division;..
+                selectedOperator = SelectedOperator.Division;
             }
 
 
